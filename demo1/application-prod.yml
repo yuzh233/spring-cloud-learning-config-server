@@ -2,4 +2,4 @@ xyz:
   yuzh:
     learnging:
       springcloud:
-        defaultUser: default user name
+        defaultUser: prod user name
